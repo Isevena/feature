@@ -7,4 +7,8 @@ sdfdsfsda
 333333333
 44444444
 
+<<<<<<< HEAD
 master
+=======
+feature1
+>>>>>>> feature1

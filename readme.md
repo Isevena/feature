@@ -7,8 +7,6 @@ sdfdsfsda
 333333333
 44444444
 
-<<<<<<< HEAD
+merge
 master
-=======
 feature1
->>>>>>> feature1
